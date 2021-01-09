@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+NOTE: this project was broken when allowing Namecheap to alter my repositories!
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
